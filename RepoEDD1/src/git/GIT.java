@@ -6,6 +6,7 @@ public class GIT {
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
     	System.out.println("");
+        System.out.println("IDE Netbeans");
     }
     
 }
